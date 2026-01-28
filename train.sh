@@ -1,0 +1,16 @@
+python experiments/train.py \
+  --dataset_dir /path/to/lkif/date-synthesis/qar_generation/results \
+  --train_dataset QA-summary \
+  --N 16814 \
+  --B 4 \
+  --gradient_accm_step 10 \
+  --total_steps 9001 \
+  --encoder_spec bge-large-en-v1.5 \
+  --key_embd_src key \
+  --use_data_aug \
+  --use_cached_embd \
+  --sep_query_head \
+  --kb_token_layer_frequency 3 \
+  --llm_type llama3 \
+  --hf_model_spec /path/to/lkif/Llama-3.2-1B-Instruct \
+  --model_save_dir /path/to/lkif/model-save

@@ -1,0 +1,71 @@
+{
+  "case_metadata": {
+    "jurisdiction": "China",
+    "court_level": "",
+    "court_name": "",
+    "case_type": "",
+    "procedure": "",
+    "complexity_level": "",
+    "case_number": "", 
+    "cause_of_action": "", 
+    "current_procedure_stage": "" 
+  },
+  "scenario": {
+    "title": "",
+    "background": "",
+    "actors": [
+      {
+        "role": "",
+        "name": "",
+        "description": "",
+        "legal_status": "", 
+        "representative_info": "" 
+      }
+    ],
+    "timeline": "",
+    "key_events": []
+  },
+  "remedy_request": { 
+    "claimant_request": "",
+    "defendant_response": ""
+  },
+  "legal_issue": {
+    "central_question": "",
+    "issue_type": "",
+    "sub_issues": []
+  },
+  "legal_basis": {
+    "statutes": [
+      {
+        "law_name": "",
+        "article": "",
+        "text_summary": ""
+      }
+    ],
+    "judicial_interpretations": [
+      {
+        "name": "",
+        "article": "",
+        "holding": ""
+      }
+    ],
+    "guiding_cases": [
+      {
+        "guiding_case_id": "",
+        "rule_summary": ""
+      }
+    ],
+    "administrative_regulations": [], 
+    "local_regulations": [] 
+  },
+  "analysis": {
+    "fact_finding": "",
+    "evidence_evaluation": "", 
+    "legal_interpretation": "",
+    "dispute_resolution": "" 
+  },
+  "answer": {
+    "short_answer": "",
+    "final_explanation": ""
+  }
+}

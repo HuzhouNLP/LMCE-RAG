@@ -1,0 +1,7 @@
+torch
+transformers
+sentence-transformers
+numpy
+azure-identity
+openai
+sentence_transformers
